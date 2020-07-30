@@ -1,0 +1,23 @@
+Student DB
+Question 1. Retrieve information from STUDENT AND GRADE table to collection (choose the type
+of collection by yourself and define the reason of choice) using cursor. After calculate average
+grade of each student.
+Question 2. Modify the script (from Question 1) so that only first and last rows of the associative
+array are displayed on the screen.
+Question 3. Modify the script by adding the following statements, and explain the output
+produced:
+I) Display the total number of elements in the associative array after it has been populated
+on
+the screen.
+II) Delete the last element, and display the total number of elements of the associative
+array again.
+III) Delete the fifth element, and display the total number of elements and the subscript of
+the last element of the associative array again.
+Question 4. Modify script from Question 1 Instead of using an associative array, use a nested
+table
+Question 5. Modify the script by adding the following statements, and explain the output
+produced:
+I ) Delete the last element of the nested table, and then assign a new value to it. Execute
+the script.
+I I ) Trim the last element of the nested table, and then assign a new value to it. Execute
+the script. 
